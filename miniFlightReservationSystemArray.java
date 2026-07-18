@@ -6,8 +6,6 @@ public class miniFlightReservationSystemArray {
     static String password = "user123";
     static boolean isLoggedln = false;
     static int attempts = 3;
-    static boolean isCheckedIn = false;       //silinebilir...
-
 
     static String[] passengers = {
          "",
