@@ -9,7 +9,7 @@ public class miniFlightReservationSystemArray {
 
     static String[] passengers = {
          "",
-         "",
+         "", 
          "",
          "",
          "",
